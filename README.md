@@ -4,7 +4,7 @@ This repository contains a Selenium-based GUI automation script written in Node.
 
 ---
 
-## ✅ What the Test Script Does
+## What the Test Script Does
 
 - Opens [https://www.commencis.com](https://www.commencis.com)
 - Navigates to the **Blogs** section under the `INSIGHTS` top menu
@@ -22,7 +22,7 @@ This repository contains a Selenium-based GUI automation script written in Node.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Node.js
 - Selenium WebDriver
@@ -30,7 +30,7 @@ This repository contains a Selenium-based GUI automation script written in Node.
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 1. **Install Node.js**  
    [https://nodejs.org](https://nodejs.org)
@@ -45,7 +45,7 @@ This repository contains a Selenium-based GUI automation script written in Node.
 
 ---
 
-## ▶️ Run the Test
+## Run the Test
 
 ```bash
 node testCommencis.js
@@ -55,7 +55,7 @@ You’ll see structured console logs for each blog.
 
 ---
 
-## 📌 Example Output
+## Example Output
 
 ```
 Blog 1:
@@ -63,12 +63,12 @@ Başlık: The Super Bowl of AI — From a CIO Lens
 İçerik: AI The Super Bowl of AI — From a CIO Lens ...
 Görsel: https://cdn-www.commencis.com/wp-content/uploads/2025/03/...
 
-➡️ Blog detay sayfasına geçildi.
-✅ Detay Başlık: The Super Bowl of AI — From a CIO Lens
-✅ Yayın tarihi ve süre: 28/03/2025 - Reading Time: 5 mins
-✅ Stay Tuned alanı bulundu.
-✅ Yazar: Duru Kızılkayak
-❌ Commencis görseli hatalı veya eksik.
+Blog detay sayfasına geçildi.
+Detay Başlık: The Super Bowl of AI — From a CIO Lens
+Yayın tarihi ve süre: 28/03/2025 - Reading Time: 5 mins
+Stay Tuned alanı bulundu.
+Yazar: Duru Kızılkayak
+Commencis görseli hatalı veya eksik.
 ```
 
 
